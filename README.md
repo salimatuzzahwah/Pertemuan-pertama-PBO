@@ -1,1 +1,3 @@
 # Pertemuan-pertama-PBO
+Tugas pertama dalam mata kuliah PBO adalah membuat program yang menunjukkan cara kerja pewarisan antar kelas (inheritance), menyembunyikan data dengan enkapsulasi, dan mengakses data lewat metode setter dan getter. di praktikum ini saya mengimplementesikan tiga package, masing-masing berisi contoh kasus yang berbeda. Dalam konsep inheritance, kelas anak (subclass) bisa mewarisi atribut dan metode dari kelas induk (superclass), sehingga kode jadi lebih ringkas dan tidak perlu ditulis ulang. Untuk menunjukkan inheritance ini, menggunakan kata kunci extends dalam class, yang artinya class tersebut adalah turunan dari kelas lain dan otomatis mendapat semua karakteristik dari class induknya.
+
